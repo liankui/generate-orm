@@ -6,7 +6,7 @@
 2、在工程中导入引用 Gen:
 import "gorm.io/gen"
 
-3、在cmd目录执行：
-`go run .`
+3、在根目录执行generate.sh文件：
+`./generate.sh`
 
-4、执行成功即生成dal文件夹，包含model和query目录
+4、执行成功即生成dao文件夹，包含model和query目录

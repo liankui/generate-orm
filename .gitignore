@@ -15,4 +15,4 @@
 # vendor/
 
 config/*.yaml
-dal/
+dao/
